@@ -100,6 +100,13 @@ const handleLoadNews = async(id) =>{
 
 }
 
+const sortFunction = () => {
+  
+  
+
+
+}
+
 
 
 
